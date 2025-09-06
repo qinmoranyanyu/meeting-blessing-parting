@@ -259,7 +259,7 @@ img {
 
 @font-face {
     font-family: 'RuiHeiXiTi';
-    src: url('fonts/RuiHeiXiTi.otf') format('truetype');
+    src: url('https://typora-1329750222.cos.ap-chengdu.myqcloud.com/meeting-blessing-parting/fonts/RuiHeiXiTi.otf') format('truetype');
     font-weight: bold;
     font-style: normal
 }
